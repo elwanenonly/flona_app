@@ -50,10 +50,6 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 
 Kontribusi sangat dihargai! Jika Anda memiliki saran atau ingin berkontribusi, silakan buat *pull request* atau buka *issue*.
 
-## Lisensi
-
--
-
 ## Penghargaan
 
 -   **Developer:** Fauzan Faturrahman
