@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Light Theme Colors -->
+    <color name="forest_green">#2E7D32</color>
+    <color name="tropical_orange">#FF8F00</color>
+    <color name="pale_leaf_green">#F1F8E9</color>
+
+    <color name="text_primary">#1B2631</color>
+    <color name="text_secondary">#6D7B8D</color>
+    <color name="text_on_dark">#E0E0E0</color>
+
+    <color name="success_green">#2E7D32</color>
+    <color name="warning_orange">#E65100</color>
+    <color name="danger_red">#C62828</color>
+
+    <color name="aman_bg">#E8F5E9</color>
+    <color name="terancam_bg">#FFF3E0</color>
+    <color name="punah_bg">#FFFFEBEE</color>
+</resources>

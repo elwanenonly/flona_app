@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Theme Colors -->
+    <color name="forest_green">#A5D6A7</color> <!-- Lighter green for better visibility -->
+    <color name="tropical_orange">#FFCC80</color> <!-- Lighter orange for better visibility -->
+    <color name="pale_leaf_green">#121212</color> <!-- Dark background -->
+
+    <!-- High Contrast Text -->
+    <color name="text_primary">#FFFFFF</color> <!-- Pure white text -->
+    <color name="text_secondary">#B0BEC5</color> <!-- Light grey text -->
+    <color name="text_on_dark">#FFFFFF</color>
+
+    <color name="success_green">#A5D6A7</color>
+    <color name="warning_orange">#FFCC80</color>
+    <color name="danger_red">#EF9A9A</color>
+
+    <color name="aman_bg">#1B2E1B</color> <!-- Darker green background for chips -->
+    <color name="terancam_bg">#2E231B</color> <!-- Darker orange background for chips -->
+    <color name="punah_bg">#2E1B1B</color> <!-- Darker red background for chips -->
+</resources>

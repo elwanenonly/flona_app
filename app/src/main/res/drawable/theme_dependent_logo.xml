@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- This is not exactly how we use night vs day for one single attribute usually,
+         standard way is values-night resources. But for drawables,
+         we put different files with SAME NAME in drawable and drawable-night -->
+</selector>
