@@ -12,6 +12,19 @@ Flona adalah aplikasi ensiklopedia digital yang didedikasikan untuk mendokumenta
 -   **Mode Gelap/Terang:** Sesuaikan tampilan aplikasi dengan preferensi mode gelap atau terang.
 -   **Bagikan Informasi:** Bagikan detail spesies dengan teman dan keluarga.
 
+## Screenshot In App
+
+<div align="center">
+  <img src="https://github.com/elwanenonly/flona_app/blob/9c82a2e6a0496007d1a2a0f10987d216e8b6a26c/splash_screen.jpeg?raw=true" alt="Splash Screen" width="150">
+  <img src="https://github.com/elwanenonly/flona_app/blob/9c82a2e6a0496007d1a2a0f10987d216e8b6a26c/home_page.jpeg?raw=true" alt="Home Page" width="150">
+  <img src="https://github.com/elwanenonly/flona_app/blob/9c82a2e6a0496007d1a2a0f10987d216e8b6a26c/plant_category_page.jpeg?raw=true" alt="Category Page" width="150">
+  <img src="https://github.com/elwanenonly/flona_app/blob/9c82a2e6a0496007d1a2a0f10987d216e8b6a26c/detail_page.jpeg?raw=true" alt="Detail Page" width="150">
+  <img src="https://github.com/elwanenonly/flona_app/blob/9c82a2e6a0496007d1a2a0f10987d216e8b6a26c/explore_page.jpeg?raw=true" alt="Explore Page" width="150">
+  <img src="https://github.com/elwanenonly/flona_app/blob/9c82a2e6a0496007d1a2a0f10987d216e8b6a26c/favorit_page.jpeg?raw=true" alt="Favorit Page" width="150">
+  <img src="https://github.com/elwanenonly/flona_app/blob/9c82a2e6a0496007d1a2a0f10987d216e8b6a26c/dark_mode.jpeg?raw=true" alt="Dark Mode" width="150">
+  <img src="https://github.com/elwanenonly/flona_app/blob/9c82a2e6a0496007d1a2a0f10987d216e8b6a26c/light_mode.jpeg?raw=true" alt="Light Mode" width="150">
+</div>
+
 ## Teknologi yang Digunakan
 
 Aplikasi Flona dibangun menggunakan teknologi Android modern:
