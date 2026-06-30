@@ -63,7 +63,7 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 
 Kontribusi sangat dihargai! Jika Anda memiliki saran atau ingin berkontribusi, silakan buat *pull request* atau buka *issue*.
 
-## Penghargaan
+## Credit
 
 -   **Developer:** Fauzan Faturrahman
 -   **Sumber Data:** hendroprwk08/data_endemik
